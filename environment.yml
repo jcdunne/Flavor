@@ -5,3 +5,9 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - seaborn
+  - plotly
+  - statistics
+  - warnings
+  - os
+  - sklearn
