@@ -8,6 +8,3 @@ dependencies:
   - seaborn
   - plotly
   - statistics
-  - warnings
-  - os
-  - sklearn
