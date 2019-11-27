@@ -18,7 +18,7 @@ For all other files, select the file of choice. Then click the 'RAW' button. A n
 
 
 Contact Information
-Dr. Jeff Dunne
-Office - 210 Method Road Greenhouse Unit #3
-Email - jcdunne@ncsu.edu
-Phone - (314) 610-6568
+<br>Dr. Jeff Dunne
+<br>Office - 210 Method Road Greenhouse Unit #3
+<br>Email - jcdunne@ncsu.edu
+<br>Phone - (314) 610-6568
