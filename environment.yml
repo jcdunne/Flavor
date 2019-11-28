@@ -5,6 +5,3 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - seaborn
-  - plotly
-  - statistics
