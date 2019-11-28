@@ -7,4 +7,4 @@ dependencies:
   - pandas
   - seaborn
   - xlrd
-  - sklearn
+  - scikit-learn
