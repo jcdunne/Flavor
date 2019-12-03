@@ -9,6 +9,4 @@ dependencies:
   - xlrd
   - scikit-learn
   - plotly
-  - statsmodel
   - scipy
-  - researchpy
