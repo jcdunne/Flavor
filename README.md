@@ -1,4 +1,4 @@
-# Flavor Analsyis
+# Flavor Analysis
 
 Click "launch binder" to render Docker image and build Binder session in Python - May take several minutes. Once this has been completed, the next time the image is launched, it should load quickly.
 
